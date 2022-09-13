@@ -9,6 +9,9 @@ Els [professors](https://www.institutpedralbes.cat/) de l'institut son:
 1. Alvaro
 2. Pol
 3. Ermengol
+4. Pere
+5. Maria
+6. Joan
 
 Assignatures:
 - Desplegament
