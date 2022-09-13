@@ -9,3 +9,9 @@ Els [professors](https://www.institutpedralbes.cat/) de l'institut son:
 1. Alvaro
 2. Pol
 3. Ermengol
+
+Assignatures:
+- Desplegament
+- Interficies
+- E Client
+- E Servidor
