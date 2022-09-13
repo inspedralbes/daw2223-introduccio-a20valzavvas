@@ -5,6 +5,9 @@ Els [professors](https://www.institutpedralbes.cat/) de l'institut son:
 - Alvaro
 - Pol
 - Ermengol
+- Toni
+- Teresa
+- Susana
 
 1. Alvaro
 2. Pol
