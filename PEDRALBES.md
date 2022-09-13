@@ -14,7 +14,7 @@ Els [professors](https://www.institutpedralbes.cat/) de l'institut son:
 3. Ermengol
 4. Pere
 5. Maria
-6. Joan
+6. Joana
 
 Assignatures:
 - Desplegament
